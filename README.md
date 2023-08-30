@@ -6,4 +6,4 @@
 
 ESP32から合計の家電の消費電力を読み取り、そこからnilmtkと呼ばれるPythonのライブラリを一部改造したプログラムを使うことで私の自宅の家電ごとの消費電力を計算することができました。
 
-nilmtk/nilmtk/machine learning for analysing power consumption by using NILMTK にTutorial兼コードが記載されています。
+nilmtk/machine learning for analysing power consumption by using NILMTK にTutorial兼コードが記載されています。
